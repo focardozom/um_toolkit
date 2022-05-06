@@ -8,7 +8,7 @@ What is the harmful use of alcohol? The harmful use of alcohol is a term coined 
 
 #### The Harmful Use of Alcohol
 
-Some key consequences are…
+
 
 1. **3 million deaths each year, representing 5.3% of all deaths**
 
