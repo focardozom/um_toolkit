@@ -4,11 +4,11 @@ title: Case Study
 weight: 5
 ---
 
-# Background
+### Background
 
-In 2015, the AB InBev Foundation (ABIF) launched the “Global Smart Drinking Goals” to reduce by 10% the harms associated with AU in six cities around the world, including Zacatecas, Mexico.
+In 2015, the AB InBev Foundation [(ABIF)](https://abinbevfoundation.org/) launched the [“Global Smart Drinking Goals”](https://www.ab-inbev.com/smart-drinking/smart-drinking-goals/) to reduce by 10% the harms associated with AU in six cities around the world, including Zacatecas, Mexico.
 
-The University of Miami was contacted by ABIF to reduce the existent high prevalence of underage drinking in Zacatecas      (53.2% lifetime alcohol use & 14.5% binge drinking between ages 12 to 17 years) (Villatoro-Velázquez et al., 2017).
+The [University of Miami](https://welcome.miami.edu/) was contacted by ABIF to reduce the existent high prevalence of underage drinking in Zacatecas      (53.2% lifetime alcohol use & 14.5% binge drinking between ages 12 to 17 years) (Villatoro-Velázquez et al., 2017).
 
 ![](img4/img4_1.png)
 
