@@ -12,7 +12,7 @@ The [University of Miami](https://welcome.miami.edu/) was contacted by ABIF to r
 
 ![](img4/img4_1.png)
 
-After an initial needs assessment of the context, the University of Miami partnered with a local private businesses to develop Businesses That Care (BTC) (Dr. Eric C. Brown, Principal Investigator).
+After an initial needs assessment of the context, the University of Miami partnered with a local private businesses to develop Businesses That Care (BTC) [(Dr. Eric C. Brown, Principal Investigator)](https://people.miami.edu/profile/ecb41@miami.edu).
 
 The network has committed to support the adaptation and implementation of preventive interventions (EBPIs) under a high-fidelity approach (Montero-Zamora et al., 2021).
 
@@ -36,9 +36,11 @@ The network has committed to support the adaptation and implementation of preven
 1. Unknown if corporate culture is compatible with pluralistic culture of group-decision making in BTC.
 1. Logistical, managerial, and cultural adaptations are made “on the fly.”
 
+----
 
-First Step: 
-Obtain Memoranda of Understanding and Commitment Letters from local companies.
+### First Step: 
+
+Obtain Memorandum of Understanding and Commitment Letters from local companies.
 
 ![](img4/img4_3.png)
 ![](img4/img4_4.png)
@@ -46,42 +48,42 @@ Obtain Memoranda of Understanding and Commitment Letters from local companies.
 ![](img4/img4_6.png)
 
 
-# Businesses That Care Zacatecas Website
+### Businesses That Care Zacatecas Website
 
-See: https://www.empresasquesecuidan.org
+See: [https://www.empresasquesecuidan.org](https://www.empresasquesecuidan.org)
 
 ![](img4/img4_7.png)
 
-# BTC Integration with the local Zacatecas Community
+### BTC Integration with the local Zacatecas Community
 
 In progress
 
-# BTC Zacatecas Action Plan
+### BTC Zacatecas Action Plan
 
 Prioritized Risk and Protective Factors and Target Indicators by the BTC Prevention Committee
 
 ![](img4/img4_8.png)
 ![](img4/img4_9.png)
 
-# BTC Zacatecas Prevention Committee Functioning (N = 27)
+### BTC Zacatecas Prevention Committee Functioning (N = 27)
 
 ![](img4/img4_11.png)
 ![](img4/img4_12.png)
 
-# BTC Zacatecas Results: Tomando Buenas Decisiones Efficacy
+## BTC Zacatecas Results: Tomando Buenas Decisiones Efficacy
 
-General family risk
+**General family risk**
 
 The TBD program is efficacious for up to 3 months after intervention in reducing general family risk levels for youth alcohol use
 
-Consistent with previous reviews family plays a pivotal role in preventing and intervening with alcohol use by reducing its risk (e.g., Velleman, Templeton, & Copello, 2005; Vimpani & Spooner, 2003
+Consistent with previous reviews family plays a pivotal role in preventing and intervening with alcohol use by reducing its risk (e.g., Velleman, Templeton, & Copello, 2005; Vimpani & Spooner, 2003)
 
 ### In Mexico:
-Armendáriz García et al. (2014) found that family history of alcohol use predicted use by university students
-Strunin et al. (2013)   found that Mexican adolescents aged 14–16 who reported lower perceived parental monitoring were more likely to be frequent drinkers and begin using alcohol at an earlier age. 
+Armendáriz García et al. (2014) found that family history of alcohol use predicted use by university students
+Strunin et al. (2013) found that Mexican adolescents aged 14–16 who reported lower perceived parental monitoring were more likely to be frequent drinkers and begin using alcohol at an earlier age. 
 
 ![](img4/img4_13.png)
 
-Effect of TBD on reducing general family risk levels for youth alcohol use has a major public health application revealing the potential of adapted parent competency training programs to mitigate harmful alcohol use in Mexico.
+Effect of TBD on reducing general family risk levels for youth alcohol use has a major public health application revealing the potential of adapted parent competency training programs to mitigate harmful alcohol use in Mexico.
 
 
