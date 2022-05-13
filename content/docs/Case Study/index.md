@@ -12,7 +12,7 @@ The [University of Miami](https://welcome.miami.edu/) was contacted by ABIF to r
 
 ![](img4/img4_1.png)
 
-After an initial needs assessment of the context, the University of Miami partnered with a local private businesses to develop Businesses That Care (BTC) (Dr. Eric C. Brown, Principal Investigator).
+After an initial needs assessment of the context, the University of Miami partnered with a local private businesses to develop Businesses That Care (BTC) [(Dr. Eric C. Brown, Principal Investigator)](https://people.miami.edu/profile/ecb41@miami.edu).
 
 The network has committed to support the adaptation and implementation of preventive interventions (EBPIs) under a high-fidelity approach (Montero-Zamora et al., 2021).
 
