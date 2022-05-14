@@ -43,10 +43,12 @@ The network has committed to support the adaptation and implementation of preven
 Obtain Memorandum of Understanding and Commitment Letters from local companies.
 
 ![](img4/img4_3.png)
+![](img4/img4_3b.png)
 ![](img4/img4_4.png)
 ![](img4/img4_5.png)
 ![](img4/img4_6.png)
 
+---
 
 ### Businesses That Care Zacatecas Website
 
@@ -54,9 +56,13 @@ See: [https://www.empresasquesecuidan.org](https://www.empresasquesecuidan.org)
 
 ![](img4/img4_7.png)
 
+---
+
 ### BTC Integration with the local Zacatecas Community
 
 In progress
+
+---
 
 ### BTC Zacatecas Action Plan
 
@@ -65,10 +71,14 @@ Prioritized Risk and Protective Factors and Target Indicators by the BTC Prevent
 ![](img4/img4_8.png)
 ![](img4/img4_9.png)
 
+---
+
 ### BTC Zacatecas Prevention Committee Functioning (N = 27)
 
 ![](img4/img4_11.png)
 ![](img4/img4_12.png)
+
+---
 
 ## BTC Zacatecas Results: Tomando Buenas Decisiones Efficacy
 
@@ -78,11 +88,13 @@ The TBD program is efficacious for up to 3 months after intervention in reducing
 
 Consistent with previous reviews family plays a pivotal role in preventing and intervening with alcohol use by reducing its risk (e.g., Velleman, Templeton, & Copello, 2005; Vimpani & Spooner, 2003)
 
+---
+
 ### In Mexico:
 Armendáriz García et al. (2014) found that family history of alcohol use predicted use by university students
 Strunin et al. (2013) found that Mexican adolescents aged 14–16 who reported lower perceived parental monitoring were more likely to be frequent drinkers and begin using alcohol at an earlier age. 
 
-![](img4/img4_13.png)
+![](img4/img4_14.png)
 
 Effect of TBD on reducing general family risk levels for youth alcohol use has a major public health application revealing the potential of adapted parent competency training programs to mitigate harmful alcohol use in Mexico.
 
