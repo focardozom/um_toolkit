@@ -4,7 +4,12 @@ title: Prevention Programs
 weight: 4
 ---
 
-# Tomando Buenas Decisiones
+### Tomando Buenas Decisiones
+
+**Web-site:**  www.sdrg.org/ggc.asp
+
+**Description of the program**:
+
 Mexican adaptation of the **Guiding Good Choices** prevention program
 
 * Six 2-hour session family-based prevention program designed to develop positive family cohesion.
@@ -13,37 +18,42 @@ Mexican adaptation of the **Guiding Good Choices** prevention program
 * Builds a social network of families for support.
 * Offered to employees and their spouses who have children between 8 and 16 years.
 
-Session 1: Drug use prevention in the family.
-Session 2: Healthy beliefs and clear standards.
-Session 3: How to say no to drugs and alcohol.
-Session 4: How to positively express yourself.
-Session 5: How to build strong family bonds.
-Session 6: Alcohol literacy and expectancies.
 
-*See: www.sdrg.org/ggc.asp
+**Program outcomes:**  Youth alcohol use/abuse prevention.
 
+**Target population:** Adolescents
 
 ---
 
-# Aprendiendo dar Habilidades, Oportunidades, y Reconocimiento a Adolecentes (AHORA) 
+### Aprendiendo dar Habilidades, Oportunidades, y Reconocimiento a Adolecentes (AHORA) 
 
-Mexican adaptation of the Social Development Strategy)
+**Web-site**: https://www.empresasquesecuidan.org
+
+**Description of the program:** Mexican adaptation of the Social Development Strategy
+
+AHORA (Aprendiendo a Dar Oportunidades, Habilidades y Reconocimiento a los Adolescentes) es una intervención preventiva de 3 componentes fundamentales: Oportunidades, Habilidades, y Reconocimiento. Establecer estos tres componentes en la vida de los adolescentes y llevarlos a cabo a la luz de estándares claros y comportamientos saludables, puede aumentar el vínculo positivo entre adolescentes y modelos positivos a seguir como padres, maestros, policías y líderes comunitarios. AHORA fue diseñada para ser entregada a las comunidades bajo el liderazgo de empresas privadas socialmente responsables. Dentro de los tipos de intervenciones preventivas, AHORA, es considerada una “estrategia preventiva”. Esta intervención tiene como objetivo promover las habilidades, oportunidades y reconocimientos de trabajadores de empresas, padres y niños de acuerdo con su desarrollo. A largo plazo AHORA busca aumentar el funcionamiento positivo en las comunidades y así disminuir los problemas relacionados principalmente con el consumo nocivo de alcohol.
+
 
 * Environmental prevention strategy based on the Social Development Strategy
 * Designed to promote positive social bonds and behaviors
 * Provides an operational framework for establishing positive standards and norms through skills, opportunities and recognition
 * Offered to all employees of participating BTC companies as an ongoing 2-hour workshop*
 
-Hawkins, J. D., Lishner, D. M., & Catalano, R. F. (1985). Childhood predictors and the prevention of adolescent substance abuse. Etiology of drug abuse: Implications for prevention, 75-126.
+**Program outcomes**: Promote positive social bonds and behaviors
 
+**Target population:** Adolescents
 --- 
 
-# Familas Unidas 
-## Family-based prevention program for Hispanic Families developed at the University of Miami
+### Familas Unidas 
+
 
 **Web site** : http://familias-unidas.info/
 
-**Description of the program**:  Familias Unidas is family-centered, evidence-based substance use and sexual risk behavior prevention intervention for Hispanic youth and their families.  It was developed by Drs. Hilda Pantin and Guillermo Prado at the University of Miami’s Department of Public Health Sciences. Familias Unidas is a multi-level intervention that targets risk (e.g., poor adolescent communication) and protective factors (e.g., parental involvement) at the family, peer, and school levels. Familias Unidas has been implemented in several cities across the U.S. and is currently being implemented in Ecuador and Chile. Familias Unidas is being adapted for use on the internet, for obesity prevention, delivery in primary care settings, and expanded roll-out in Latin America.
+**Description of the program**:  
+
+ Family-based prevention program for Hispanic Families developed at the University of Miami.
+ 
+ Familias Unidas is family-centered, evidence-based substance use and sexual risk behavior prevention intervention for Hispanic youth and their families.  It was developed by Drs. Hilda Pantin and Guillermo Prado at the University of Miami’s Department of Public Health Sciences. Familias Unidas is a multi-level intervention that targets risk (e.g., poor adolescent communication) and protective factors (e.g., parental involvement) at the family, peer, and school levels. Familias Unidas has been implemented in several cities across the U.S. and is currently being implemented in Ecuador and Chile. Familias Unidas is being adapted for use on the internet, for obesity prevention, delivery in primary care settings, and expanded roll-out in Latin America.
 
 **Program outcomes:** Familias Unidas is a multi-level intervention that targets risk (e.g., poor adolescent communication) and protective factors (e.g., parental involvement) at the family, peer, and school levels. 
 
@@ -51,12 +61,11 @@ Hawkins, J. D., Lishner, D. M., & Catalano, R. F. (1985). Childhood predictors a
 
 ---
 
-# Familas Fuertes 
-## Strengthening Families Program. Family-based prevention program developed at the Iowa State University
-
+### Familas Fuertes 
 
 **Web-Site:** https://www.paho.org/es/temas/salud-adolescente/familias-fuertes
 
+**Web-site:** https://www.extension.iastate.edu/sfp10-14/
 
 **Description of the program:** El Programa Familias Fuertes es una iniciativa dirigida a los padres de familia y adolescentes, que ha demostrado reducir la probabilidad del abuso de sustancias psicotrópicas y otros comportamientos de riesgo asociados a los adolescentes, incluyendo el HIV/sida y la salud sexual y reproductiva.
 
@@ -73,16 +82,12 @@ Enseñar a los padres o tutores maneras efectivas de disciplinar y guiar a sus h
 Dar a los jovenes orientaciones saludables para el futuro y para incrementar el aprecio al esfuerzo de sus padres o tutores.
 Enseñar a los jovenes aptitudes para enfrentar el estres y la presion de grupo.
 
-21 sessions (7 weeks)
-
-https://www.extension.iastate.edu/sfp10-14/
 
 **Target population:** Parents and adolescents
+
 ---
 
-# Mantente REAL (keepin’ it REAL)
-
-**Web-site**: https://mexico.asu.edu/our-mexico-portfolio/research-and-capacity-building/keepin’-it-real-mantente-real-multi-site
+### Mantente REAL (keepin’ it REAL)
 
 **Web-site**: https://real-prevention.com/keepin-it-real/
 
@@ -99,32 +104,29 @@ The multisite feasibility study is testing Mantente REAL, the Jalisco-Mexican ve
 
 ---
 
-# Unplugged (School-based prevention program developed at the University of Zagreb, Croatia)
+### Unplugged (School-based prevention program developed at the University of Zagreb, Croatia)
 
 **Web-site:** https://www.eudap.net/Unplugged_HomePage.aspx
 
 **Description of the program:** The school programme, named “Unplugged” in the English version, includes all recommended components of a comprehensive social influence (CSI) programmes, and was tested during the 2004-05 school year in 78 schools (3457 students), while an additional 65 schools (3532 students) constituted the control group. The programme is designed to be a classroom commitment for students aged 12-14 years, with the teacher serving as the trainer.
 
-**Program outcomes:** Preventing substance abuse among adolescents/students
+**Program outcomes:** Preventing substance abuse among adolescents/students 
 
 **Target population:** Adolescents
+
 ---
 
-# Consentidos
+### Consentidos
 
-School-based prevention program by the Colectivo Aqui y Ahora in Colombia
 
 **Web-site:** https://colectivoaquiyahora.org/programa-consentidos/
 
-**Description of the program:** El programa “consentidos” se construye retomando los avances de la prevención basada en la evidencia, así como los años de experiencia del Colectivo Aquí y Ahora y las múltiples evaluaciones realizadas en este nivel de aplicación.
+**Description of the program:** School-based prevention program by the Colectivo Aqui y Ahora in Colombia 
 
-OBJETIVOS
-Objetivo con los estudiantes:
+El programa “consentidos” se construye retomando los avances de la prevención basada en la evidencia, así como los años de experiencia del Colectivo Aquí y Ahora y las múltiples evaluaciones realizadas en este nivel de aplicación.
 
-Aumentar su percepción de riesgo y las influencias normativas del consumo de alcohol, cigarrillo y otras drogas antes de los 18 años.
-Objetivo con los padres y cuidadores:
-
-Aumentar su percepción de riesgo del consumo de alcohol, cigarrillo y otras drogas antes de los 18 años. Favorecer la postura de límites claros y coherentes respecto al consumo de alcohol, cigarrillo y otras drogas desde una propuesta de educación fundamentada en la libertad, la responsabilidad y el sentido de vida. Aumentar el involucramiento parental y fortalecer los factores protectores familiares. Adquirir habilidades y herramientas que les permitan implementar el programa con estudiantes y padres de familia.
+Objetivo con los estudiantes: Aumentar su percepción de riesgo y las influencias normativas del consumo de alcohol, cigarrillo y otras drogas antes de los 18 años.
+Objetivo con los padres y cuidadores: Aumentar su percepción de riesgo del consumo de alcohol, cigarrillo y otras drogas antes de los 18 años. Favorecer la postura de límites claros y coherentes respecto al consumo de alcohol, cigarrillo y otras drogas desde una propuesta de educación fundamentada en la libertad, la responsabilidad y el sentido de vida. Aumentar el involucramiento parental y fortalecer los factores protectores familiares. Adquirir habilidades y herramientas que les permitan implementar el programa con estudiantes y padres de familia.
 
 **Program outcomes:** Prevenir el consumo de alcohol y cigarrillo en menores de 18 años disminuye 10 veces la probabilidad de entrar en contacto con otras sustancias psicoactivas (drogas).
 
@@ -138,7 +140,7 @@ Promover un estilo de vida saludable y con propósito favorece el clima organiza
 
 ---
 
-# Brief Intervention Motivational Interviewing 
+### Brief Intervention Motivational Interviewing 
 
 **Web-site:** https://nuevosrumbos.org/blog?tit=IBEM+–+Intervención+Breve+basada+en+Entrevista+Motivacional&vistaprevia=index
 
