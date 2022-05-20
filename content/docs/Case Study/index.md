@@ -91,10 +91,7 @@ Consistent with previous reviews family plays a pivotal role in preventing an
 ---
 
 ### In Mexico:
-Armendáriz García et al. (2014) found that family history of alcohol use predicted use by university students
-Strunin et al. (2013) found that Mexican adolescents aged 14–16 who reported lower perceived parental monitoring were more likely to be frequent drinkers and begin using alcohol at an earlier age. 
-
-![](img4/img4_14.png)
+[Armendáriz García et al. (2014)](https://www.redalyc.org/pdf/3704/370441817010.pdf) found that family history of alcohol use predicted alcohol use in university students. [Strunin et al. (2013)](https://www.sciencedirect.com/science/article/pii/S0306460313001718?casa_token=r0x46WHxsisAAAAA:6FbuiYDcEeWsxPQPIcVsV9Z5O7i7pHaG8aRCHiMjVLvsqHr1IGp2OvZUbC1oUomrGHr1G13sLQ) found that Mexican adolescents aged 14–16 who reported lower perceived parental monitoring were more likely to be frequent drinkers and begin using alcohol at an earlier age. 
 
 Effect of TBD on reducing general family risk levels for youth alcohol use has a major public health application revealing the potential of adapted parent competency training programs to mitigate harmful alcohol use in Mexico.
 
