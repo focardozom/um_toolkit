@@ -22,7 +22,6 @@ Session 6: Alcohol literacy and expectancies.
 
 *See: www.sdrg.org/ggc.asp
 
-more info: xxx
 
 ---
 
@@ -35,9 +34,6 @@ Mexican adaptation of the Social Development Strategy)
 * Provides an operational framework for establishing positive standards and norms through skills, opportunities and recognition
 * Offered to all employees of participating BTC companies as an ongoing 2-hour workshop*
 
-![](img_3/img3_1.png)
-
-
 Hawkins, J. D., Lishner, D. M., & Catalano, R. F. (1985). Childhood predictors and the prevention of adolescent substance abuse. Etiology of drug abuse: Implications for prevention, 75-126.
 
 --- 
@@ -49,96 +45,106 @@ Hawkins, J. D., Lishner, D. M., & Catalano, R. F. (1985). Childhood predictors a
 
 **Description of the program**:  Familias Unidas is family-centered, evidence-based substance use and sexual risk behavior prevention intervention for Hispanic youth and their families.  It was developed by Drs. Hilda Pantin and Guillermo Prado at the University of Miami’s Department of Public Health Sciences. Familias Unidas is a multi-level intervention that targets risk (e.g., poor adolescent communication) and protective factors (e.g., parental involvement) at the family, peer, and school levels. Familias Unidas has been implemented in several cities across the U.S. and is currently being implemented in Ecuador and Chile. Familias Unidas is being adapted for use on the internet, for obesity prevention, delivery in primary care settings, and expanded roll-out in Latin America.
 
-
 **Program outcomes:** Familias Unidas is a multi-level intervention that targets risk (e.g., poor adolescent communication) and protective factors (e.g., parental involvement) at the family, peer, and school levels. 
 
 **Target population:** Hispanic youth and their families.
-
 
 ---
 
 # Familas Fuertes 
 ## Strengthening Families Program. Family-based prevention program developed at the Iowa State University
 
-![](img_3/img3_5.png)
-![](img_3/img3_6.png)
-![](img_3/img3_7.png)
+
+**Web-Site:** https://www.paho.org/es/temas/salud-adolescente/familias-fuertes
 
 
-STRENGTHENING FAMILIES 10-14 has been evaluated in several randomized trials (Spoth, et al 2001).
+**Description of the program:** El Programa Familias Fuertes es una iniciativa dirigida a los padres de familia y adolescentes, que ha demostrado reducir la probabilidad del abuso de sustancias psicotrópicas y otros comportamientos de riesgo asociados a los adolescentes, incluyendo el HIV/sida y la salud sexual y reproductiva.
 
+**Program outcomes:**
 * Lower alcohol use initiation rates
 * Lower proportion of initiation reports of each of the five substance use behaviors (alcohol use, alcohol without parental permission, drunkenness, cigarettes, and marijuana) at four-year follow-up (grade 10).
 * Slower overall growth in lifetime alcohol use, lifetime cigarette use, and lifetime marijuana use over six years of follow-up (Grade 12).
 
 It has a version in Spanish: Familias Fuertes
 
+El programa Familias Fuertes está destinado a:
+Ayudar a los padres o tutores a aprender aptitudes de crianza que apoyen el desarrollo del joven.
+Enseñar a los padres o tutores maneras efectivas de disciplinar y guiar a sus hijos.
+Dar a los jovenes orientaciones saludables para el futuro y para incrementar el aprecio al esfuerzo de sus padres o tutores.
+Enseñar a los jovenes aptitudes para enfrentar el estres y la presion de grupo.
+
 21 sessions (7 weeks)
 
 https://www.extension.iastate.edu/sfp10-14/
 
+**Target population:** Parents and adolescents
 ---
 
 # Mantente REAL (keepin’ it REAL)
 
-(School-based prevention program adapted for Mexico by the Arizona State University)
+**Web-site**: https://mexico.asu.edu/our-mexico-portfolio/research-and-capacity-building/keepin’-it-real-mantente-real-multi-site
 
-![](img_3/img3_8.png)
-![](img_3/img3_9.png)
-![](img_3/img3_10.png)
-![](img_3/img3_11.png)
+**Web-site**: https://real-prevention.com/keepin-it-real/
 
-keepin’ it REAL (Mantente REAL in Spanish) has been evaluated in several randomized trials (Hecht et al, 2008; Marsiglia et al, 2015).
+Description of the program: 
+School-based prevention program adapted for Mexico by the Arizona State University.
 
-Minor use of alcohol, marijuana and cigarettes. The effects lasted up to 14 months for alcohol and marijuana use, and up to 8 months for cigarette use.
+Keepin’ it REAL (KiR) is a culturally grounded, evidence-based substance use prevention program for middle school youth developed by SIRC, licensed by ASU, and distributed commercially by ETR (http://www.etr.org/).
 
-32% of the students who reported alcohol use during the initial evaluation reported a discontinuation of such use, compared to 24% of the students in the control group (p <.01).
+The multisite feasibility study is testing Mantente REAL, the Jalisco-Mexican version of keepin’ it REAL (KiR)* through a randomized controlled trial with 1,800 seventh grade students in 18 middle schools (six from each city) in Guadalajara, Mexico City and Monterrey. The project is a collaboration of Arizona State University, Mexican Institute of Social Security (IMSS), the Institute for Attention & Prevention of Addictions (IAPA-DF), the National Psychiatric Institute of Mexico and the Universidad de Monterrey.
 
-It has videos in Spanish: Mantente R.E.A.L
+**Program outcomes:**  Adolescent substance use by influencing their drug use related knowledge, norms, and drug resistance skills in a culturally competent manner.
 
-10 interactive 45-minute lessons delivered over a 10-week period, including a series of five videos
-
-https://real-prevention.com/keepin-it-real/
-
+**Target population:** Adolescents
 
 ---
 
 # Unplugged (School-based prevention program developed at the University of Zagreb, Croatia)
 
-![](img_3/img3_12.png)
-![](img_3/img3_13.png)
-![](img_3/img3_14.png)
-![](img_3/img3_15.png)
+**Web-site:** https://www.eudap.net/Unplugged_HomePage.aspx
 
-UNPLUGGED has been evaluated in several randomized trials in the EU (Faggiano et al., 2010).
+**Description of the program:** The school programme, named “Unplugged” in the English version, includes all recommended components of a comprehensive social influence (CSI) programmes, and was tested during the 2004-05 school year in 78 schools (3457 students), while an additional 65 schools (3532 students) constituted the control group. The programme is designed to be a classroom commitment for students aged 12-14 years, with the teacher serving as the trainer.
 
-30% reduction in daily tobacco use and episodes of alcohol intoxication
-23% reduction in cannabis use
-Effects of the program are maintained for at least one year
+**Program outcomes:** Preventing substance abuse among adolescents/students
 
-It has materials in Spanish (Spain version):
-
-10 interactive 45-minute lessons delivered over a 10-week period, including a series of five videos.
-
-http://www.eudap.net/Unplugged_HomePage.aspx
-
+**Target population:** Adolescents
 ---
 
 # Consentidos
-(School-based prevention program by the Colectivo Aqui y Ahora in Colombia)
 
-![](img_3/img3_16.png)
-![](img_3/img3_17.png)
-![](img_3/img3_18.png)
+School-based prevention program by the Colectivo Aqui y Ahora in Colombia
+
+**Web-site:** https://colectivoaquiyahora.org/programa-consentidos/
+
+**Description of the program:** El programa “consentidos” se construye retomando los avances de la prevención basada en la evidencia, así como los años de experiencia del Colectivo Aquí y Ahora y las múltiples evaluaciones realizadas en este nivel de aplicación.
+
+OBJETIVOS
+Objetivo con los estudiantes:
+
+Aumentar su percepción de riesgo y las influencias normativas del consumo de alcohol, cigarrillo y otras drogas antes de los 18 años.
+Objetivo con los padres y cuidadores:
+
+Aumentar su percepción de riesgo del consumo de alcohol, cigarrillo y otras drogas antes de los 18 años. Favorecer la postura de límites claros y coherentes respecto al consumo de alcohol, cigarrillo y otras drogas desde una propuesta de educación fundamentada en la libertad, la responsabilidad y el sentido de vida. Aumentar el involucramiento parental y fortalecer los factores protectores familiares. Adquirir habilidades y herramientas que les permitan implementar el programa con estudiantes y padres de familia.
+
+**Program outcomes:** Prevenir el consumo de alcohol y cigarrillo en menores de 18 años disminuye 10 veces la probabilidad de entrar en contacto con otras sustancias psicoactivas (drogas).
+
+La prevención del consumo de sustancias psicoactivas en jóvenes universitarios, disminuye la incidencia en conductas de riesgo como: sexualidad irresponsable, ausentismo, bajo rendimiento académico y suicidio.
+
+Promover un estilo de vida saludable y con propósito favorece el clima organizacional y disminuye los accidentes laborales.
+
+
+**Target population:** Adolescents and parents 
+
 
 ---
 
 # Brief Intervention Motivational Interviewing 
 
-Intervención Breve Entrevista Motivacional, IBEM
-Developed by the Corporación Nuevos Rumbos
+**Web-site:** https://nuevosrumbos.org/blog?tit=IBEM+–+Intervención+Breve+basada+en+Entrevista+Motivacional&vistaprevia=index
 
-![](img_3/img3_19.png)
+
+**Description of the program:** Intervención Breve Entrevista Motivacional, IBEM
+Developed by the Corporación Nuevos Rumbos
 
 
 * School-based individualized intervention that focuses on alcohol/drug behaviors and outcome (e.g., frequency, quantity, onset). 
@@ -149,4 +155,7 @@ Developed by the Corporación Nuevos Rumbos
 * Identifies student’s risk category and structured goals for problem behavior change.
 
 
+**Program outcomes:** Preventing substance abuse among adolescents/student
+
+**Target population:** Adolescents
 
