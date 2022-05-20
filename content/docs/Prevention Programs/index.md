@@ -5,7 +5,7 @@ weight: 4
 ---
 
 # Tomando Buenas Decisiones
-Mexican adaptation of the Guiding Good Choices* prevention program
+Mexican adaptation of the **Guiding Good Choices** prevention program
 
 * Six 2-hour session family-based prevention program designed to develop positive family cohesion.
 * Adapted for emphasis on youth alcohol use/abuse prevention.
@@ -45,19 +45,15 @@ Hawkins, J. D., Lishner, D. M., & Catalano, R. F. (1985). Childhood predictors a
 # Familas Unidas 
 ## Family-based prevention program for Hispanic Families developed at the University of Miami
 
-![](img_3/img3_2.png)
-![](img_3/img3_3.png)
-![](img_3/img3_4.png)
+**Web site** : http://familias-unidas.info/
 
-Familias Unidas has been evaluated in 6 randomized trials (Pantin et al., 2003; Prado et al., 2007; Pantin et al., 2009; Prado et al .; 2012; Estrada et al., 2015; Estrada et al., 2017 ).
+**Description of the program**:  Familias Unidas is family-centered, evidence-based substance use and sexual risk behavior prevention intervention for Hispanic youth and their families.  It was developed by Drs. Hilda Pantin and Guillermo Prado at the University of Miami’s Department of Public Health Sciences. Familias Unidas is a multi-level intervention that targets risk (e.g., poor adolescent communication) and protective factors (e.g., parental involvement) at the family, peer, and school levels. Familias Unidas has been implemented in several cities across the U.S. and is currently being implemented in Ecuador and Chile. Familias Unidas is being adapted for use on the internet, for obesity prevention, delivery in primary care settings, and expanded roll-out in Latin America.
 
 
-It has an online version: e-Familias Unidas
+**Program outcomes:** Familias Unidas is a multi-level intervention that targets risk (e.g., poor adolescent communication) and protective factors (e.g., parental involvement) at the family, peer, and school levels. 
 
-8 sessions consisting of "group drills" and soap operas
-4 family visits online
+**Target population:** Hispanic youth and their families.
 
-Web site : http://familias-unidas.info/
 
 ---
 
