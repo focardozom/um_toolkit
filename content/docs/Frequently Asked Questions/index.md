@@ -21,14 +21,6 @@ No. We selected TBD and AHORA for Zacatecas because we felt that these programs 
 
 Assessing community readiness for BTC or any large-scale prevention initiative is an important task. The first place to start is to contact community leaders and check to see if there is general agreement on the problem(s) that need to be addressed, if there is the political will and economic resources to support these efforts, and if there is a spirit of collaboration among the companies in the business sector and among other sectors of the community. There are also some survey instruments that can be helpful in assessing community readiness (see hyperlink on this page). Finally, talking with experts and technical assistance providers will go a long way toward determining if the BTC system is right for your community. The AB InBev Foundation can assist with this.
 
-# For questions and clarification, please contact:
-Eric C. Brown 
-Principal Investigator, University of Miami
-E-mail: ricbrown@miami.edu
-
-Pablo Montero-Zamora
-Co-Investigator, Project Director, University of Texas-Austin
-pmontero@austin.utexas.edu
 
 
 
