@@ -18,9 +18,9 @@ The network has committed to support the adaptation and implementation of preven
 
 ![](img4/img4_2.png)  
 
-# BTC Zacatecas Company Recruitment: Pros and Cons
+### BTC Zacatecas Company Recruitment: Pros and Cons
 
-### Pros:
+#### Pros:
 
 1. Private companies are not as sensitive to changing political winds or public sector bureaucracy. 
 1. Private companies typically have the resources to implement BTC quickly and with good adherence.
@@ -29,7 +29,7 @@ The network has committed to support the adaptation and implementation of preven
 1. Companies demonstrate care for their employees and their families. Better moral, health, safety, and productivity among workers.
 1. Company setting facilitates data collection and delivery of prevention program to workers and their families.
 
-### Cons:
+#### Cons:
 
 1. BTC system implementation is complex. Requires time and dedication by companies, their directors, and their workers.
 1. Company time is needed to conduct BTC activities and deliver prevention programs to target populations.
@@ -38,7 +38,7 @@ The network has committed to support the adaptation and implementation of preven
 
 ----
 
-### First Step: 
+### Business engagement
 
 Obtain Memorandum of Understanding and Commitment Letters from local companies.
 
@@ -50,26 +50,12 @@ Obtain Memorandum of Understanding and Commitment Letters from local companies.
 
 ---
 
-### Businesses That Care Zacatecas Website
-
-See: [https://www.empresasquesecuidan.org](https://www.empresasquesecuidan.org)
-
-![](img4/img4_7.png)
-
----
-
-### BTC Integration with the local Zacatecas Community
-
-In progress
-
----
-
 ### BTC Zacatecas Action Plan
 
 Prioritized Risk and Protective Factors and Target Indicators by the BTC Prevention Committee
 
 ![](img4/img4_8.png)
-![](img4/img4_9.png)
+![](img4/img4_11_2.png)
 
 ---
 
@@ -80,7 +66,7 @@ Prioritized Risk and Protective Factors and Target Indicators by the BTC Prevent
 
 ---
 
-## BTC Zacatecas Results: Tomando Buenas Decisiones Efficacy
+### BTC Zacatecas Results: Tomando Buenas Decisiones Efficacy
 
 **General family risk**
 
@@ -94,5 +80,9 @@ Consistent with previous reviews family plays a pivotal role in preventing an
 [Armendáriz García et al. (2014)](https://www.redalyc.org/pdf/3704/370441817010.pdf) found that family history of alcohol use predicted alcohol use in university students. [Strunin et al. (2013)](https://www.sciencedirect.com/science/article/pii/S0306460313001718?casa_token=r0x46WHxsisAAAAA:6FbuiYDcEeWsxPQPIcVsV9Z5O7i7pHaG8aRCHiMjVLvsqHr1IGp2OvZUbC1oUomrGHr1G13sLQ) found that Mexican adolescents aged 14–16 who reported lower perceived parental monitoring were more likely to be frequent drinkers and begin using alcohol at an earlier age. 
 
 Effect of TBD on reducing general family risk levels for youth alcohol use has a major public health application revealing the potential of adapted parent competency training programs to mitigate harmful alcohol use in Mexico.
+
+###  Website
+
+More information about *Businesses That Care Zacatecas* [here](https://www.empresasquesecuidan.org)
 
 
