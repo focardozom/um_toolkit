@@ -10,15 +10,15 @@ What is the harmful use of alcohol? The harmful use of alcohol is a term coined 
 
 Some key consequences are…
 
-1. **3 million deaths each year, representing 5.3% of all deaths**
+1. 3 million deaths each year, representing 5.3% of all deaths
 
-1. **200+ diseases and injuries with harmful use of alcohol as causal factor**
+1. 200+ diseases and injuries with harmful use of alcohol as causal factor
 
-1. **~13% of deaths among 20-39 year olds attributed to alcohol**
+1. ~13% of deaths among 20-39 year olds attributed to alcohol
 
-1. **Causal relationship between harmful drinking and incidence of infectious diseases such as tuberculosis**
+1. Causal relationship between harmful drinking and incidence of infectious diseases such as tuberculosis
 
-1. **Social and economic loss to society**
+1. Social and economic loss to society
 
 ---
 
@@ -79,8 +79,6 @@ Prevention systems such as BTC address the various domains of alcohol use enviro
 * Family
 
 * Community
-
-![](img/img4.png)
 
 ---
 
